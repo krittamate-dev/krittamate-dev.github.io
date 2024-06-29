@@ -91,7 +91,7 @@ section h2 i {
 }
 
 .pdf-container {
-    padding-bottom: 75%; /* Adjust ratio for PDFs if needed */
+    padding-bottom: 50%; /* Adjust ratio for PDFs if needed */
 }
 
 .toggle-container {
